@@ -31,6 +31,22 @@ iii)azure subscriptions:it allows users to access azure services and its resourc
 iv)azure policies:these are the rules that help organizations control how their resources in Azure are used and configured. 
 They ensure that resources follow specific guidelines and standards set by the organization.
 
-![Resource Group Screenshot](Screenshot 2024-10-15 162434.png)
+![Resource Group Screenshot](Screenshot 2024-10-15 162434.)
+
+I have logged into the resource group amd here is the screenshot link: Screenshot 2024-10-15 162434.png
+
+Step 1: I went to chrome and typed azure portal login
+step 2: clicked the 1st website link and it asked start free and pay as you go. In that I selected start free.
+step 3: Then I signedup to the account by giving the required details and also it asked for debit card details .In that I gave card number and etc,.
+step 4: It asked me for the otp and I have entered the otp.
+step 5: then it will be verified successfully.
+step 6: I selected the resources group which is available on the left hand side menu.
+step 7: Then I clicked on the create button.
+step 8: Choose the subscription and I entered a name for the resources.
+step 9: then, I have chosen a region.
+step 10: Click on the Review+Create button.
+step 11: verify the details and then click create.
+step 12: Finally the resource group will be created.
+
 
 
