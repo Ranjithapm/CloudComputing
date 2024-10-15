@@ -31,6 +31,6 @@ iii)azure subscriptions:it allows users to access azure services and its resourc
 iv)azure policies:these are the rules that help organizations control how their resources in Azure are used and configured. 
 They ensure that resources follow specific guidelines and standards set by the organization.
 
-![Resource Group Screenshot]()
+![Resource Group Screenshot](Screenshot 2024-10-15 162434.png)
 
 
