@@ -1,0 +1,34 @@
+## Acknowledgments
+I would like to thank Mr.karthic sir and my seniors for their guidance and support during my learning journey.
+
+Let me continue with my tasks..
+
+1. What is Cloud computing ?
+Cloud is used to store files using the internet instead of keeping them on our computer and it follows pay as you go method.Pay as you go refers to ,we only pay for the resources
+that we use. also it has more benefits that are :
+i) we can access the files from different locations uisng the internet.
+ii) No need to buy expensive things as we use the cloud resources when we need them.
+iii)It has the ability to automatically increase or decrease resources based on the demand.
+iv)Services are availble for all 24 hours for the users to use.
+
+2.About services.
+i)IaaS: The full form is infrasturcture as a service.It offers virtualized computing resources over the internet. Example: Netflix because it experiences some fluctuation in 
+user demand especially during the release of new movies.
+ii)PaaS: Platform as a service. It provides platforms where the developers can build and deploy while the CSP which is cloud service provider manages the infrastucture.
+It include both physicalhardware and software resources.Examplw: spotify because it allows millions and trillions of users ro listen to the music and also allows to create playlist.
+iii)SaaS:  it is a cloud computing model that delivers software applications over the internet. Here CSP is responsible for all managing all aspects of software appplications.
+example is google drive because it allows the usres to store and share the files.
+
+3.On-Premises.
+it means that a company keeps its computers and software in its own building.the company owns and controls everything rather than using services from outside or the internet.
+Example is the school keeps the student records in the school office and the staff's are responsible for accessing those records this means here the school is responsible 
+for everything from updates to security because everything is stored and manages within the school building.
+
+4.management infrastructure.
+i)azure resources:each component in the azure tenant is called the azure resources.
+ii)resourecs groups:it is a container that holds within mixrosoft azure that allows users to organize and manage the cloud resources.
+iii)azure subscriptions:it allows users to access azure services and its resources.it is a billing and management container.
+iv)azure policies:these are the rules that help organizations control how their resources in Azure are used and configured. 
+They ensure that resources follow specific guidelines and standards set by the organization.
+
+
